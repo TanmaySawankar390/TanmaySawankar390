@@ -25,35 +25,4 @@
 
 
 
-## Language Usage
-
-<style>
-    .language-table {
-        width: 100%;
-        border-collapse: collapse;
-    }
-    .language-table th, .language-table td {
-        border: 1px solid #ddd;
-        padding: 8px;
-    }
-    .language-table th {
-        background-color: #f2f2f2;
-        text-align: left;
-    }
-    .language-bar {
-        display: inline-block;
-        height: 10px;
-        border-radius: 5px;
-    }
-
-This is an aggregated summary of the languages used across all my GitHub repositories.
-
-
-| Language     | Percentage |
-|--------------|-------------|
-| Python       | 40.35%     |
-| JavaScript   | 30.25%     |
-| HTML/CSS     | 20.10%     |
-| Other        | 9.30%      |
-
 
