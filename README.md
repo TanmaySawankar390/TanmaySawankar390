@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanmaysawankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmaysawankar" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/tanmaysawankar4441/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="tanmaysawankar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/tanmaysawankar4441/" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/660115526/cbbcd367-535a-4e9d-927b-9eacd8d652e8" alt="tanmaysawankar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanmay-sawankar-57a945223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay-sawankar-57a945223/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tanmaysawankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanmaysawankar" height="30" width="40" /></a>
 <a href="https://instagram.com/tanmy_swk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmy_swk" height="30" width="40" /></a>
