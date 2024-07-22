@@ -24,7 +24,69 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaysawankar390&" alt="tanmaysawankar390" /></p>
 
 
+
 ## Language Usage
+
+<style>
+    .language-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    .language-table th, .language-table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+    .language-table th {
+        background-color: #f2f2f2;
+        text-align: left;
+    }
+    .language-bar {
+        display: inline-block;
+        height: 10px;
+        border-radius: 5px;
+    }
+</style>
+<table class="language-table">
+    <thead>
+        <tr>
+            <th>Language</th>
+            <th>Percentage</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Python</td>
+            <td>
+                <div class="language-bar" style="width: 40.35%; background-color: #FF5733;"></div>
+                40.35%
+            </td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>
+                <div class="language-bar" style="width: 30.25%; background-color: #33FF57;"></div>
+                30.25%
+            </td>
+        </tr>
+        <tr>
+            <td>HTML/CSS</td>
+            <td>
+                <div class="language-bar" style="width: 20.10%; background-color: #3357FF;"></div>
+                20.10%
+            </td>
+        </tr>
+        <tr>
+            <td>Other</td>
+            <td>
+                <div class="language-bar" style="width: 9.30%; background-color: #F333FF;"></div>
+                9.30%
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+This is an aggregated summary of the languages used across all my GitHub repositories.
+
 
 | Language     | Percentage |
 |--------------|-------------|
@@ -33,5 +95,4 @@
 | HTML/CSS     | 20.10%     |
 | Other        | 9.30%      |
 
-This is an aggregated summary of the languages used across all my GitHub repositories.
 
