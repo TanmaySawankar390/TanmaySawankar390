@@ -41,10 +41,7 @@
 
 ## 💼 Experience
 
-**🔥 Front End Developer Intern**  
-*Educerns Technologies* | Apr-July 2025
-- 📈 **30% load time reduction** via optimization
-- 🤝 **10+ code reviews** & agile participation
+
 
 **💡 Freelanced Developer**  
 *Adobe Inc.* | Jan-Apr 2025
@@ -179,12 +176,11 @@
 ### 💻 LeetCode Progress
 <img src="https://leetcard.jacoblin.cool/tanmaysawankar4441?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
 
-### 📊 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmaySawankar390&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
 </td>
 </tr>
 </table>
+
+<div align="center">
 
 ## 💪 Skills & Competencies
 
@@ -212,6 +208,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
