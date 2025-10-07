@@ -216,8 +216,7 @@
 ## 🏆 GitHub Achievements
 ![Followers](https://img.shields.io/github/followers/TanmaySawankar390?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/TanmaySawankar390?label=Stars&style=social)
-![Public Repos](https://img.shields.io/github/repos-count/TanmaySawankar390?style=flat&color=blue)
-
+![Repos](https://img.shields.io/badge/Public%20Repos-36-blue)
 
 
 
