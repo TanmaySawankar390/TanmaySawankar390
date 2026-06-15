@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Tanmay Sawankar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Front+End+Developer;Problem+Solver;DevOps+Enthusiast;Code+Craftsman;All+in+One+🤭" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;React+%26+Developer;Building+Scalable+Applications;Hackathon+Winner;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <table>
@@ -9,12 +9,14 @@
 <td width="50%" valign="top">
 
 ## 🚀 About Me
-- 🎓 **CS Student** at MITS (CGPA: 8.6)
-- 💼 **Front End Developer Intern** at Educerns
-- 🏆 **6th Position** SIH 2023 Grand Finals
-- 🥇 **1st Position** Flowathon 2025
-- 📍 Chhindwara, Madhya Pradesh
-- ⚡ Fun fact: **Tried teaching my pet HTML!**
+- 🎓 **B.Tech CSE** at MITS Gwalior (CGPA: 8.6)
+- 💼 **Software Engineer Intern** at Fotoowl.ai
+- 🏆 **6th Position** - Smart India Hackathon 2023 Grand Finals
+- 🥇 **Winner** - Flowathon 2025
+- 💻 Solved **300+ DSA Problems** on LeetCode
+- 🚀 Participated in **10+ National-Level Hackathons**
+- 📍 Sausar, Madhya Pradesh
+- ⚡ Passionate about building scalable products that create real-world impact
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-sawankar-57a945223/)
@@ -25,14 +27,16 @@
 
 ## 🎓 Education
 **🏛️ B.Tech Computer Science**  
-*Madhav Institute of Technology*  
-**CGPA: 8.6** | Nov 2022 – Present
+*Madhav Institute of Technology and Science, Gwalior*  
+**CGPA: 8.6** | Nov 2022 – May 2026
 
 **📚 Key Coursework:**
 - Data Structures & Algorithms
-- AI & Machine Learning
+- Object-Oriented Programming
 - Database Management Systems
-- Computer Networks & Architecture
+- Operating Systems
+- Computer Networks
+- System Design
 
 </td>
 <td width="50%" valign="top">
@@ -41,16 +45,28 @@
 
 ## 💼 Experience
 
+**💻 Software Engineer Intern**  
+*Fotoowl.ai* | Feb 2026 – Present
 
+- 🚀 Developed responsive React-based UI components for production applications
+- ⚡ Built automation scripts to streamline CI testing pipelines
+- 🔗 Integrated frontend applications with backend APIs
+- 📈 Improved application performance and user experience
+- 🤝 Collaborated with cross-functional teams to deliver scalable solutions
 
-**💡 Freelanced Developer**  
-*Adobe Inc.* | Jan-Apr 2025
-- 🛠️ Built DevOps-based Adobe Express add-on
-- 📉 **80% reduction** in third-party dependencies
+**📱 Frontend Developer Intern**  
+*Educerns Technologies* | Apr 2025 – Jul 2025
+
+- 🎨 Built mobile-first interfaces using React Native
+- 🛠️ Translated Figma wireframes into reusable production-ready code
+- 🔄 Participated in Agile development and code reviews
+- 📱 Improved cross-platform compatibility and UI consistency
 
 ## 🏆 Achievements
-- 🥇 **1st Place** - Flowathon 2025 Hackathon
-- 🏅 **6th Place** - Smart India Hackathon 2023
+- 🥇 **Winner** - Flowathon 2025 Hackathon
+- 🏅 **6th Place** - Smart India Hackathon 2023 Grand Finals
+- 💻 **300+ DSA Problems Solved** on LeetCode
+- 🚀 **10+ Hackathons Participated**
 - 📋 **Event Coordinator** - ISTE-SC MITS
 
 </td>
@@ -66,21 +82,24 @@
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </td>
 <td width="25%" align="center">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </td>
 <td width="25%" align="center">
 
 ### Backend & DB
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -104,36 +123,38 @@
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🩺 Life Saverr
-**Tech:** React.js, Node.js  
-**Date:** June 2025
+### 📝 synCV
+**Tech:** Next.js, React, Node.js  
+**Date:** 2026
 
 **Impact:**
-- 🚑 **60% faster** donor pickup
-- 🔐 Role-based access system
-- 📈 **30% improved** task accuracy
+- 🤖 AI-powered resume generation
+- 🎯 ATS score optimization
+- 📄 Dynamic PDF generation
 
 **Features:**
-- Emergency transport coordination
-- Hospital logistics management
-- Real-time tracking system
+- Resume tailoring from JD
+- AI-powered content enhancement
+- Real-time preview
+- Cloud resume management
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🏥 Medicare Clinic
-**Tech:** React.js, MongoDB, Tailwind  
-**Date:** Feb 2025
+### 🎙️ bolchal.ai
+**Tech:** Next.js, WebSockets, LLMs  
+**Date:** 2026
 
 **Impact:**
-- 📋 **100% paperless** system
-- ♻️ Eco-friendly healthcare
-- ✅ **50+ test cases** passed
+- 🎤 Real-time transcription
+- ⚡ Low-latency AI processing
+- 📋 Automated meeting notes
 
 **Features:**
-- Digital prescription generation
-- Patient record management
-- SaaS clinic platform
+- Speaker tracking
+- AI summaries
+- Action item extraction
+- Context-aware insights
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -189,21 +210,20 @@
 <td width="50%" valign="top">
 
 ### 🧠 Technical Skills
-- **Problem-Solving** & **Algorithm Design**
-- **Full Stack Development** & **API Integration**
-- **Database Design** & **Cloud Fundamentals**
-- **DOM Manipulation** & **Browser Extensions**
-- **DevOps Practices** & **Version Control**
-
-</td>
-<td width="50%" valign="top">
+- **Full Stack Development** & **System Design**
+- **React / React Native / Next.js**
+- **REST APIs** & **WebSocket Architecture**
+- **Performance Optimization**
+- **Database Design & Integration**
+- **Problem Solving & DSA**
 
 ### 🤝 Soft Skills
 - **Leadership** & **Team Collaboration**
 - **Communication** & **Adaptability**
-- **Time Management** & **Project Coordination**
-- **Continuous Learning** & **Mentorship**
-- **Critical Thinking** & **Innovation**
+- **Project Ownership**
+- **Continuous Learning**
+- **Critical Thinking**
+- **Hackathon Execution**
 
 </td>
 </tr>
@@ -222,7 +242,7 @@
 
 ---
 
-### 💫 *"Turning ideas into digital reality, one line of code at a time"*
+### 💫 *"Building products that solve real problems and create measurable impact."*
 
 ![Profile views](https://komarev.com/ghpvc/?username=TanmaySawankar390&color=blue)
 
